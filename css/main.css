@@ -1,0 +1,11 @@
+.team{
+    text-align: center;
+}
+.item{
+    float:left;
+    width:33%;
+    
+}
+.clearfix{
+    clear:both;
+}
